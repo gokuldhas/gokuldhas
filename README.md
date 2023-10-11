@@ -22,20 +22,8 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋! My name is Gokul Dhas Simson and I'm a Software Developer from Chennai, India.</h2>
 
 ###
-<div align="left">
-  <a href="https://www.linkedin.com/in/gokuldhas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:gokulsimson@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://dribbble.com/gokulsimson" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-  </a>
-  <a href="https://www.behance.net/gokuldhas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-</div>
+
+<h3 align="left">I use:</h3>
 
 ###
 
@@ -112,8 +100,29 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/gokuldhas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:gokulsimson@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://dribbble.com/gokulsimson" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.behance.net/gokuldhas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldhas&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldhas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldhas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gokuldhas" /> </p>
   <img align="center" height="150" src="https://raw.githubusercontent.com/gokuldhas/gokuldhas/main/assets/ani.gif"/>
 </div>
 
@@ -123,18 +132,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldhas&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldhas" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokuldhas" alt="gokuldhas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokuldhas&show_icons=true&locale=en&layout=compact" alt="gokuldhas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokuldhas&show_icons=true&locale=en" alt="gokuldhas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuldhas&" alt="gokuldhas" /></p>
+###
+
+<br clear="both">
+<img src="https://github.com/gokuldhas/gokuldhas/blob/main/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuldhas&" alt="gokuldhas" /></p>
